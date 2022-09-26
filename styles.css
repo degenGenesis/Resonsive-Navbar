@@ -102,11 +102,11 @@ h4 {
   font-size: 0.875rem;
 }
 img {
-  width: 150px;
+  width: 180px;
   display: block;
   object-fit: cover;
   padding-top: 0.15rem;
-  margin-left: 1rem;
+  margin-left: 0.5rem;
 }
 p {
   margin-bottom: 1.25rem;
