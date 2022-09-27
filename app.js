@@ -16,6 +16,5 @@ navToggle.addEventListener('click', () => {
       //   links.classList.add('show-links');
       // }
       links.classList.toggle('show-links');
-      console.log(links.classList.contains('show-links'));
 });
 
